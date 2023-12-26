@@ -1,5 +1,5 @@
 # Flutter App with Bloc State Management and MVVM
-Mab Drive (inDrive) is an innovative mobile application that provides a convenient solution for users to request transportation services. The app allows you to specify your current location and your desired destination, submit a request, and receive a fare estimate for the trip. Additionally, drivers can view your request, accept it, or negotiate the fare with you before confirming the trip.
+Mab Drive is an innovative mobile application that provides a convenient solution for users to request transportation services. The app allows you to specify your current location and your desired destination, submit a request, and receive a fare estimate for the trip. Additionally, drivers can view your request, accept it, or negotiate the fare with you before confirming the trip.
 
 ## Features 🎯
 
